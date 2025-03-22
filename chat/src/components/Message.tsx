@@ -9,7 +9,7 @@ const Message = () => {
         </div>
          <div className="messageContent">
             <p>Hello</p>
-            {/* <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQksR3Lt2Iy2rlmUKvJmc27GcXpe297gINhTA&s" alt="" /> */}
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQksR3Lt2Iy2rlmUKvJmc27GcXpe297gINhTA&s" alt="" /> 
          </div>
     </div>
   )
